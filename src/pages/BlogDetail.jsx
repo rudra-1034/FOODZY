@@ -4,12 +4,8 @@ import Footer from "../components/Footer";
 import heroImg from "../assets/blog-1.png";
 import bolg1 from "../assets/blog-2.png";
 import bolg2 from "../assets/blog-3.png";
-<<<<<<< HEAD
 import { TbHeart } from 'react-icons/tb';
-  
-=======
 
->>>>>>> 23048ed62c42037bc5de23646210df171dabde5d
 export default function BlogDetail() {
   return (
     <div className="text-gray-800">
