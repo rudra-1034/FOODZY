@@ -79,7 +79,6 @@ export default function NewsletterCTA() {
             src={rightImg}
             alt="Newsletter Visual"
             style={{
-              
               maxWidth: 500,
               height: "auto",
               objectFit: "contain",
@@ -95,4 +94,6 @@ export default function NewsletterCTA() {
     </section>
   );
 }
+
+<script type="module" src="/src/main.jsx"></script>
 
