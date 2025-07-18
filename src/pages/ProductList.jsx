@@ -14,7 +14,7 @@ import img9 from '../assets/9.png';
 import img10 from '../assets/10.png';
 import img11 from '../assets/11.png';
 import img12 from '../assets/12.png';
-import { FaBars } from 'react-icons/fa';
+import { FaBars } from 'react-icons';
 
 const products = [
   { id: 1, name: 'Organic Lemon', category: 'Fruits', price: 56.0, oldPrice: 60.0, image: img1 },
