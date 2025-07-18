@@ -4,7 +4,6 @@ import Footer from "../components/Footer";
 import heroImg from "../assets/blog-1.png";
 import bolg1 from "../assets/blog-2.png";
 import bolg2 from "../assets/blog-3.png";
-import { TbLetterR } from "react-icons/tb";
 
 export default function BlogDetail() {
   return (
