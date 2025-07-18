@@ -6,7 +6,7 @@ import snackImg1 from "../assets/9.png";
 import snackImg2 from "../assets/10.png";
 import snackImg3 from "../assets/11.png";
 import snackImg4 from "../assets/12.png";
-import { FaTrash } from "react-icons";
+import { FaTrash } from "react-icons/fa";
 
 export default function Cart() {
   const cartItems = [
