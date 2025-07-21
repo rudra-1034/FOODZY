@@ -59,8 +59,8 @@ export default function Hero() {
                 key={tag}
                 className="flex items-center bg-white rounded-full px-5 py-2 text-base font-semibold text-green-500 shadow-md"
               >
-                <span className="text-gray-300 text-lg mr-2">×</span>
-                <span className={i === 1 ? "text-gray-800 font-bold" : ""}>{tag}</span>
+                 <span className="text-gray-500 text-lg mr-2">×</span>
+                <span className="text-green-500 font-bold">{tag}</span>
               </span>
             ))}
           </div>
